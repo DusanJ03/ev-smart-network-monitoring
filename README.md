@@ -1,4 +1,4 @@
-# ⚡ Smart EV Network — Real-Time Monitoring & Telemetry Analytics
+# Smart EV Network — Real-Time Monitoring & Telemetry Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PySpark](https://img.shields.io/badge/Apache%20Spark-Structured%20Streaming-orange)
@@ -9,7 +9,7 @@ An end-to-end data pipeline that simulates, processes, and visualizes telemetry 
 
 ---
 
-## 🔄 System Overview & Pipeline Flow
+## System Overview & Pipeline Flow
 
 1. **Telemetry Simulation (`simulator.py`):** Generates real-time IoT events (power draw in kW, duration, battery state-of-charge, status codes) and writes them to `stream_input/`.
 2. **Stream Processing (`spark_app.py`):** Ingests incoming streams via **PySpark Structured Streaming**, enriches events by joining with station metadata (`stations_lookup.csv`), and maintains fault tolerance using `checkpoints/`.
@@ -18,7 +18,7 @@ An end-to-end data pipeline that simulates, processes, and visualizes telemetry 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.8+
 * **Stream Processing:** PySpark (Structured Streaming)
@@ -27,7 +27,7 @@ An end-to-end data pipeline that simulates, processes, and visualizes telemetry 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Setup Environment
 ```bash
