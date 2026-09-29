@@ -1,0 +1,11 @@
+station_id;station_name;city;municipality;latitude;longitude;charger_type;max_power_kw;commissioned_year
+EV-BG-01;Novi Beograd Delta;Beograd;Novi Beograd;44.8083;20.4206;Ultra-Fast;150;2023
+EV-BG-02;Autokomanda Centar;Beograd;Vozdovac;44.7866;20.4655;Fast;50;2022
+EV-BG-03;Dorcol Marina;Beograd;Stari Grad;44.8258;20.4612;Standard;22;2021
+EV-NS-01;Promenada Zapad;Novi Sad;Liman;45.2444;19.8436;Ultra-Fast;150;2023
+EV-NS-02;Centar Spens;Novi Sad;Stari Grad;45.2517;19.8468;Fast;50;2022
+EV-NI-01;Medijana Park;Nis;Medijana;43.3209;21.9033;Ultra-Fast;150;2024
+EV-NI-02;Crveni Krst Sever;Nis;Crveni Krst;43.3356;21.8845;Fast;50;2023
+EV-NI-03;Palilula Jug;Nis;Palilula;43.3089;21.8955;Standard;22;2022
+EV-KG-01;Kragujevac Plaza;Kragujevac;Centar;44.0128;20.9114;Fast;50;2023
+EV-KG-02;Jezero Bubanj;Kragujevac;Stanovo;44.0201;20.9250;Standard;22;2021

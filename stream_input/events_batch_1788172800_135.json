@@ -1,0 +1,4 @@
+{"event_id": "EVT-F0764BD8", "timestamp": "2026-08-31T10:40:00Z", "station_id": "EV-NI-01", "energy_kwh": 24.47, "charging_duration_minutes": 16, "temperature_celsius": 56.26, "voltage_v": 386.9}
+{"event_id": "EVT-CE44C049", "timestamp": "2026-08-31T10:40:00Z", "station_id": "EV-NI-02", "energy_kwh": 28.9, "charging_duration_minutes": 42, "temperature_celsius": 50.71, "voltage_v": 391.6}
+{"event_id": "EVT-F72BB40E", "timestamp": "2026-08-31T10:40:00Z", "station_id": "EV-NI-02", "energy_kwh": 39.53, "charging_duration_minutes": 28, "temperature_celsius": 34.39, "voltage_v": 387.2}
+{"event_id": "EVT-0DC3D7F4", "timestamp": "2026-08-31T10:40:00Z", "station_id": "EV-BG-02", "energy_kwh": 38.3, "charging_duration_minutes": 33, "temperature_celsius": 33.47, "voltage_v": 392.1}
